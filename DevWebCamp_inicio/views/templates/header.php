@@ -8,7 +8,7 @@
         <div class="header__contenido">
             <a href="/">
                 <h1 class="header__logo">
-                    &#60;DevWebCamp />
+                    &#60;Nutra />
                 </h1>
             </a>
 
@@ -23,14 +23,14 @@
     <div class="barra__contenido">
         <a href="/">
             <h2 class="barra__logo">
-                &#60;DevWebCamp />
+                &#60;Nutra />
             </h2>
              
         </a>
         <nav class="navegacion">
         <a href="/devwebcamp" class="navegacion__enlace">Evento</a>
         <a href="/paquetes" class="navegacion__enlace">Paquetes</a>
-        <a href="/workshops-conferencias" class="navegacion__enlace">Workshop / Conferencias</a>
+        <a href="/workshops-conferencias" class="navegacion__enlace">Conferencias</a>
         <a href="/registro" class="navegacion__enlace">Comprar Pase</a>
         </nav>
     </div>

@@ -10,7 +10,7 @@
         <a href="/admin/ponentes" class="dashboard__enlace">
             <i class="fa-solid fa-microphone dashboard__icono"></i> 
            <span class="dashboard__menu-texto">   
-               Ponentes
+               Nutricionistas
             </span> 
         </a>
 

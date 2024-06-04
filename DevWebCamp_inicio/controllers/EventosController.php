@@ -8,7 +8,7 @@ class EventosController {
 
     public static function index(Router $router) {
         $router->render('admin/eventos/index', [
-            'titulo' => 'Conferencias Y Workshops'
+            'titulo' => 'Citas'
         ]);
     }
 }    

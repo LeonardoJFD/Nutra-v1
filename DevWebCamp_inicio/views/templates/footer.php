@@ -2,11 +2,11 @@
     <div class="footer__grid">
         <div class="footer__contenido">
             <h3 class="footer__logo">
-                &#60;DevWebCamp />
+                &#60;Nutra />
             </h3>
 
             <p class="footer__texto">
-                DevWebCamp es una conferencia para desarrolladores de todos los niveles, se lleva a cabo
+                Nutra es una plataforma para Nutricionistas y los Pacientes, donde la atención se lleva a cabo
                 de forma en presencial y en línea.
             </p>
         </div>
@@ -35,7 +35,7 @@
     </div>
 
     <p class="footer__copyright">
-        DevWebCamp
+        Nutra
         <span class="footer__copyright--regular">
             - Todos los derechos reservados <?php echo date('Y'); ?>
         </span>
