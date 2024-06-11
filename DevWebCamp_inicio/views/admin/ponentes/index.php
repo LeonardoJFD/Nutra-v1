@@ -51,3 +51,7 @@
         <p class="text-center">No Hay Nutricionistas Aún</p>
     <?php } ?>    
 </div>
+
+<?php
+    echo $paginacion;
+?>    
