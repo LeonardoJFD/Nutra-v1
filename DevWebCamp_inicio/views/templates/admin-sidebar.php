@@ -17,7 +17,7 @@
         <a href="/admin/eventos" class="dashboard__enlace">
             <i class="fa-regular fa-calendar dashboard__icono"></i>           
             <span class="dashboard__menu-texto">   
-               Eventos
+               Citas
             </span> 
         </a>
 
